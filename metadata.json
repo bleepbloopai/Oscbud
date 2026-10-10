@@ -1,0 +1,6 @@
+{
+  "name": "Oscillo AI",
+  "description": "Oscilloscope AI persona with expressive outline eyes, dynamic audio waveform mouth, encrypted persistent memory, voice and text chat, and chat log export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Oscillo AI</string>
+    <string name="ai_persona_name">OSCILLO</string>
+    <string name="chat_input_hint">Transmit message to Oscillo…</string>
+    <string name="export_logs">Export Encrypted Logs</string>
+    <string name="memory_bank">Oscillo Memory Core</string>
+    <string name="clear_memory">Purge Memory</string>
+    <string name="voice_listening">Receiving Audio Input…</string>
+    <string name="voice_speak">Transmit Voice</string>
+    <string name="voice_speaking_now">Audio Synthesis Active</string>
+    <string name="status_encrypted">AES-256 ENCRYPTED</string>
+    <string name="status_ready">TRACE READY</string>
+    <string name="theme_phosphor">Phosphor Green</string>
+    <string name="theme_cyan">CRT Cyan</string>
+    <string name="theme_amber">Vector Amber</string>
+</resources>
